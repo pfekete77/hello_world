@@ -1,0 +1,10 @@
+    {"cost-","rib","",""},
+    {"cranio-","skull","",""},
+    {"cribr-","sieve","",""},
+    {"-crine","to seperate","",""},
+    {"cut-","skin","",""},
+    {"cyan-","blue","",""},
+    {"cyst-","sac","",""},
+    {"cyt-","hollow cell","",""},
+    {"de-","from,away","",""},
+away","",""},\r\n
